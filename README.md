@@ -1,4 +1,4 @@
-<img width="309" height="105" alt="image" src="https://github.com/user-attachments/assets/2ce2c61a-4472-4350-a79a-d4e68e11b476" />## Hello there 👋
+## Hello there 👋, I am Shreyansh
 
 <!--
 **Shreyansh-kushw/Shreyansh-Kushw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 First-year college student passionate about programming  
-😄 Pronouns: he/him
+🎓 First-year college student passionate about programming    
+😄 Pronouns: he/him  
 ♻️ Proficient in Python, learning C  
-🔭 I’m currently working on a python based Password Manager
-🚀 Loves software development & problem-solving
-⚡ Fun fact: Unlike other coders, I have good social skills 😄
+🔭 I’m currently working on a python based Password Manager  
+🚀 Loves software development & problem-solving  
+⚡ Fun fact: Unlike other coders, I have good social skills 😄  
