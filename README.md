@@ -1,22 +1,35 @@
-## Hello there 👋, I am Shreyansh
+# 👋 Hey there! I'm Shreyansh
 
-<!--
-**Shreyansh-kushw/Shreyansh-Kushw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year college student  
+💡 Passionate about coding, problem-solving, and building cool stuff.  
+💪 Fitness enthusiast | 🎮 Gamer | 🧠 Lifelong learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🎓 First-year college student passionate about programming    
-😄 Pronouns: he/him  
-♻️ Proficient in Python, learning C  
-🔭 I’m currently working on a python based Password Manager  
-🚀 Loves software development & problem-solving  
-⚡ Fun fact: Unlike other coders, I have good social skills 😄  
+### 🚀 About Me
+- 🔭 I’m currently working on improving my **DSA and algorithmic thinking**  
+- 🌱 Proficient **Python** and specialize in **backend development**  
+- 🎯 Goal: Build scalable and efficient applications  
+- ⚡ Fun fact: I debug faster with music on 🎧  
+
+---
+
+### 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-kushw&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shreyansh-kushwaha-93994b381)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shreyansh.kushw/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyansh.kushw@gmail.com)
+
+---
