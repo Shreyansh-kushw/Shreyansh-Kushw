@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Shreyansh
 
-🎓 First-year Electrical Engineering student at **MNNIT Allahabas**
-💻 Backend-focused developer with a growing interest in Machine Learning
-🧠 Curious learner who enjoys building, breaking, and refining software  
+🎓 First-year Electrical Engineering student at **MNNIT Allahabad**  
+💻 Backend-focused developer with a growing interest in Machine Learning  
+🧠 Curious learner who enjoys building, breaking, and refining software    
 
 💪 Fitness enthusiast • 🎮 Casual gamer • 🎧 Codes best with music on  
 
@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently learning **Frontend Development** (HTML, CSS, JavaScript)
-- 🐍 Strong in **Python**, with an emphasis on **backend logic and system design**
-- 🧩 Interested in **problem-solving**, **clean architecture**, and **scalable software**
-- 🎯 Goal: Build reliable systems that solve real-world problems
-- ⚡ Fun fact: Debugging feels faster with music on 🎧
+- 🔭 Currently learning **Frontend Development** (HTML, CSS, JavaScript)  
+- 🐍 Strong in **Python**, with an emphasis on **backend logic and system design**  
+- 🧩 Interested in **problem-solving**, **clean architecture**, and **scalable software**  
+- 🎯 Goal: Build reliable systems that solve real-world problems  
+- ⚡ Fun fact: Debugging feels faster with music on 🎧  
 
 ---
 
