@@ -44,7 +44,9 @@
 
 ## 🛠️ Featured Projects
 
-### 🔹 ContextIQ — Document Analysis & Semantic Search
+## 🛠️ Featured Projects
+
+### 🔹 [ContextIQ — Document Analysis & Semantic Search](https://github.com/Aayansh207/GDG-25)
 **Backend-first document intelligence platform**
 
 - Designed a pipeline for **document ingestion, OCR, summarization, and semantic search**
@@ -54,7 +56,7 @@
 
 ---
 
-### 🔹 Play_DLL — YouTube Audio Playback Engine
+### 🔹 [Play_DLL — YouTube Audio Playback Engine](https://github.com/Shreyansh-kushw/Play_DLL)
 **Lightweight Python audio streaming engine**
 
 - Streams **YouTube audio without downloading media**
@@ -65,7 +67,7 @@
 
 ---
 
-### 🔹 KeyVeil — Desktop Password Manager
+### 🔹 [KeyVeil — Desktop Password Manager](https://github.com/Shreyansh-kushw/KeyVeil)
 **Offline-first, security-focused desktop application**
 
 - Implemented **PIN-based authentication** with encrypted local vaults
@@ -75,6 +77,7 @@
 - **Tech:** Python, PyQt6, WebView, Cryptography, SQLite
 
 > More projects coming as I continue building and refining my skills 🚀
+
 
 ---
 
