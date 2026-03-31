@@ -48,8 +48,9 @@
 
 ## 📊 GitHub Stats
 
-![Shreyansh's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyansh-kushw&theme=dracula)
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyansh-kushw&theme=dracula&exclude=lua)
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shreyansh-kushw&theme=dracula)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shreyansh-kushw&theme=dracula)
+![Shreyansh's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreyansh-kushw&theme=dracula)
 
 ---
 
@@ -66,6 +67,17 @@
 
 ## 🛠️ Featured Projects
 
+### 🔹 [Elevate AI — AI Career Development Platform](https://github.com/Shreyansh-kushw/Elevate-AI)
+**Full-stack AI-powered career intelligence system**
+
+- Built a scalable **FastAPI backend** with secure JWT-based authentication and modular API design  
+- Developed backend systems for **resume analysis, skill extraction, and user profiling**  
+- Implemented core logic for **AI interview simulation workflows**, integrating video-based analysis and question generation  
+- Contributed to building an end-to-end platform that provides **career insights, roadmaps, and job readiness evaluation**  
+- **Tech:** FastAPI, Python, SQLite, LangChain, LLM APIs
+  
+---
+
 ### 🔹 [ContextIQ — Document Analysis & Semantic Search](https://github.com/Shreyansh-kushw/ContextIQ)
 **Backend-first document intelligence platform**
 
@@ -73,17 +85,6 @@
 - Built logic for **document comparison and structured analysis**  
 - Optimized ingestion flow to **reduce manual reading and review time**  
 - **Tech:** Python, SQLite, LLM APIs  
-
----
-
-### 🔹 [Play_DLL — YouTube Audio Playback Engine](https://github.com/Shreyansh-kushw/Play_DLL)
-**Lightweight Python audio streaming engine**
-
-- Streams **YouTube audio without downloading media**
-- Supports playback via **song name, direct URL, and local files**
-- Integrated `yt-dlp` with **VLC bindings and manual DLL handling**
-- Built with **OOP design** and playback controls (pause, seek)
-- **Tech:** Python, VLC, yt-dlp, Requests
 
 ---
 
@@ -97,8 +98,9 @@
 - Designed a **PyQt6 + WebView hybrid UI** with event-driven backend logic
 - **Tech:** Python, PyQt6, WebView, Cryptography, SQLite
 
-> More projects coming as I continue building and refining my skills 🚀
 
+
+> More projects coming as I continue building and refining my skills 🚀
 
 ---
 
