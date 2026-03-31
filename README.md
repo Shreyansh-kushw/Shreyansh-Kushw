@@ -96,7 +96,7 @@
 - Added **auto-lock**, session handling, and login attempt limits
 - Built **backup & restore**, CSV import, and password generation features
 - Designed a **PyQt6 + WebView hybrid UI** with event-driven backend logic
-- **Tech:** Python, PyQt6, WebView, Cryptography, SQLite
+- **Tech:** Python, PyQt6, WebView, Cryptography
 
 
 
