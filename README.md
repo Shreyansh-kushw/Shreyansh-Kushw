@@ -1,28 +1,38 @@
 # 👋 Hi, I'm Shreyansh
 
-🎓 First-year Electrical Engineering student at **MNNIT Allahabad**  
-💻 Backend-focused developer with a growing interest in Machine Learning  
-🧠 Curious learner who enjoys building, breaking, and refining software    
+🎓 First-year Electrical Engineering student at **MNNIT Allahabad**   
+💻 Backend developer focused on AI systems, automation, and FastAPI-based applications  
+🧠 I build real, usable software — from intelligent document systems to secure desktop apps   
+⚡ Strong in Python, system design, and backend architecture  
+🎯 Focused on solving real-world problems through clean, scalable systems  
 
 💪 Fitness enthusiast • 🎮 Casual gamer • 🎧 Codes best with music on  
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-- 🔭 Currently learning **Frontend Development** (HTML, CSS, JavaScript)  
-- 🐍 Strong in **Python**, with an emphasis on **backend logic and system design**  
-- 🧩 Interested in **problem-solving**, **clean architecture**, and **scalable software**  
-- 🎯 Goal: Build reliable systems that solve real-world problems  
-- ⚡ Fun fact: Debugging feels faster with music on 🎧  
-
+- 🐍 Backend-focused developer working with Python & FastAPI    
+- 🤖 Building AI-powered systems using LLMs and automation workflows  
+- 🧩 Strong focus on clean architecture and scalable design  
+- ⚙️ Experienced in building real-world tools, not just demos  
+- 🎯 Goal: Create systems that are practical, efficient, and usable  
+- ⚡ Fun fact: Debugging feels faster with music on 🎧    
+ 
 ---
 
 ## 🧰 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### AI Tools
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![Minimax](https://img.shields.io/badge/minimax-B4393C?style=for-the-badge&logo=minimax&logoColor=white)
+
+### Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,6 +43,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+
 ---
 
 ## 📊 GitHub Stats
@@ -42,16 +53,26 @@
 
 ---
 
+## 🧪 What I Can Build
+
+- **AI-powered document processing systems**  
+- **Automation tools and workflows**  
+- **FastAPI-based backend applications**  
+- **Secure desktop tools and utilities**  
+- **Custom Python-based systems**  
+
+
+---
 
 ## 🛠️ Featured Projects
 
-### 🔹 [ContextIQ — Document Analysis & Semantic Search](https://github.com/Aayansh207/GDG-25)
+### 🔹 [ContextIQ — Document Analysis & Semantic Search](https://github.com/Shreyansh-kushw/ContextIQ)
 **Backend-first document intelligence platform**
 
-- Designed a pipeline for **document ingestion, OCR, summarization, and semantic search**
-- Built logic for **document comparison and structured analysis**
-- Optimized ingestion flow to **reduce manual reading and review time**
-- **Tech:** Python, SQLite, LLM APIs
+- Built an AI-powered document intelligence system that automates **ingestion, summarization, and semantic search** — reducing manual review effort.  
+- Built logic for **document comparison and structured analysis**  
+- Optimized ingestion flow to **reduce manual reading and review time**  
+- **Tech:** Python, SQLite, LLM APIs  
 
 ---
 
@@ -69,6 +90,7 @@
 ### 🔹 [KeyVeil — Desktop Password Manager](https://github.com/Shreyansh-kushw/KeyVeil)
 **Offline-first, security-focused desktop application**
 
+- Designed with a focus on security, privacy, and offline reliability
 - Implemented **PIN-based authentication** with encrypted local vaults
 - Added **auto-lock**, session handling, and login attempt limits
 - Built **backup & restore**, CSV import, and password generation features
