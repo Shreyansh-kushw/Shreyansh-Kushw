@@ -1,24 +1,23 @@
 # 👋 Hi, I'm Shreyansh
 
-🎓 First-year Electrical Engineering student at **MNNIT Allahabad**   
-💻 Backend developer focused on AI systems, automation, and FastAPI-based applications  
-🧠 I build real, usable software — from intelligent document systems to secure desktop apps   
-⚡ Strong in Python, system design, and backend architecture  
-🎯 Focused on solving real-world problems through clean, scalable systems  
+🎓 First-year Electrical Engineering student at **MNNIT Allahabad**  
+🐍 Backend developer — Python, FastAPI, AI systems, and things that actually work  
+🧠 I build real software: document intelligence platforms, career tools, secure desktop apps  
+🎯 Clean architecture, scalable design, no fluff  
 
-💪 Fitness enthusiast • 🎮 Casual gamer • 🎧 Codes best with music on  
+💪 Fitness enthusiast • 🎮 Casual gamer • 🎧 Codes best with music on
 
 ---
 
-## 🚀 About Me  
+## 🏆 Achievements
 
-- 🐍 Backend-focused developer working with Python & FastAPI    
-- 🤖 Building AI-powered systems using LLMs and automation workflows  
-- 🧩 Strong focus on clean architecture and scalable design  
-- ⚙️ Experienced in building real-world tools, not just demos  
-- 🎯 Goal: Create systems that are practical, efficient, and usable  
-- ⚡ Fun fact: Debugging feels faster with music on 🎧    
- 
+| Event | Result | Details |
+|---|---|---|
+| **Sankalp 2026** — National Hackathon | 🏅 Top 10 | Only 1st-year team across all participating colleges |
+| **CodeSprint 2025** — Avishkar, MNNIT | 🥇 1st Place | Computer vision track · Open to all 4 years |
+| **Dev or Die** — Powersurge, Avishkar | 🥈 2nd Place | Among all 1st-year teams |
+| **Robo Gesture Rally** — Avishkar, MNNIT | 🎖️ Special Mention | Robotics · Orientation-controlled robot |
+
 ---
 
 ## 🧰 Tech Stack
@@ -26,13 +25,15 @@
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### AI Tools
+### AI / ML
 ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Minimax](https://img.shields.io/badge/minimax-B4393C?style=for-the-badge&logo=minimax&logoColor=white)
 
 ### Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,7 +43,6 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
 
 ---
 
@@ -54,51 +54,37 @@
 
 ---
 
-## 🧪 What I Can Build
-
-- **AI-powered document processing systems**  
-- **Automation tools and workflows**  
-- **FastAPI-based backend applications**  
-- **Secure desktop tools and utilities**  
-- **Custom Python-based systems**  
-
-
----
-
 ## 🛠️ Featured Projects
 
 ### 🔹 [Elevate AI — AI Career Development Platform](https://github.com/Shreyansh-kushw/Elevate-AI)
-**Full-stack AI-powered career intelligence system**
+**Full-stack career intelligence system · Built at Sankalp 2026 (Top 10, National)**
 
-- Built a scalable **FastAPI backend** with secure JWT-based authentication and modular API design  
-- Developed backend systems for **resume analysis, skill extraction, and user profiling**  
-- Implemented core logic for **AI interview simulation workflows**, integrating video-based analysis and question generation  
-- Contributed to building an end-to-end platform that provides **career insights, roadmaps, and job readiness evaluation**  
-- **Tech:** FastAPI, Python, SQLite, LangChain, LLM APIs
-  
+- Built a scalable **FastAPI backend** with secure JWT-based authentication and modular API design
+- Developed backend systems for **resume analysis, skill extraction, and user profiling**
+- Implemented core logic for **AI interview simulation**, integrating video-based analysis and question generation
+- End-to-end platform covering career insights, personalized roadmaps, and job readiness evaluation
+- **Tech:** FastAPI · Python · SQLite · LangChain · LLM APIs
+
 ---
 
 ### 🔹 [ContextIQ — Document Analysis & Semantic Search](https://github.com/Shreyansh-kushw/ContextIQ)
-**Backend-first document intelligence platform**
+**Backend-first document intelligence platform · Dev or Die 2025, 2nd Place**
 
-- Built an AI-powered document intelligence system that automates **ingestion, summarization, and semantic search** — reducing manual review effort.  
-- Built logic for **document comparison and structured analysis**  
-- Optimized ingestion flow to **reduce manual reading and review time**  
-- **Tech:** Python, SQLite, LLM APIs  
+- Built an AI-powered system that automates **ingestion, summarization, and semantic search** over uploaded documents
+- Implemented document comparison and structured analysis logic
+- Users can upload any file, get a summary, and ask questions about its content
+- **Tech:** Python · SQLite · LLM APIs
 
 ---
 
 ### 🔹 [KeyVeil — Desktop Password Manager](https://github.com/Shreyansh-kushw/KeyVeil)
 **Offline-first, security-focused desktop application**
 
-- Designed with a focus on security, privacy, and offline reliability
-- Implemented **PIN-based authentication** with encrypted local vaults
-- Added **auto-lock**, session handling, and login attempt limits
-- Built **backup & restore**, CSV import, and password generation features
-- Designed a **PyQt6 + WebView hybrid UI** with event-driven backend logic
-- **Tech:** Python, PyQt6, WebView, Cryptography
-
-
+- **PIN-based authentication** with AES-encrypted local vaults
+- Auto-lock, session handling, and login attempt limits
+- Backup & restore, CSV import, and password generation
+- **PyQt6 + WebView hybrid UI** with event-driven backend logic
+- **Tech:** Python · PyQt6 · WebView · Cryptography
 
 > More projects coming as I continue building and refining my skills 🚀
 
