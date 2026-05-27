@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Shreyansh
 
-🎓 First-year Electrical Engineering student at MNNIT Allahabad
-💻 Backend developer focused on AI systems, automation, and FastAPI-based applications
-🧠 I build real, usable software — from intelligent document systems to secure desktop apps
-🎯 Focused on solving real-world problems through clean, scalable systems
+🎓 First-year Electrical Engineering student at MNNIT Allahabad  
+💻 Backend developer focused on AI systems, automation, and FastAPI-based applications   
+🧠 I build real, usable software — from intelligent document systems to secure desktop apps   
+🎯 Focused on solving real-world problems through clean, scalable systems   
 
-💪 Fitness enthusiast • 🎮 Casual gamer • 🎧 Codes best with music on
+💪 Fitness enthusiast • 🎮 Casual gamer • 🎧 Codes best with music on  
 
 ---
 
