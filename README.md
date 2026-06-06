@@ -24,6 +24,7 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### AI / ML
 ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
@@ -34,6 +35,7 @@
 ### Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 
 ### Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,6 +45,7 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -55,6 +58,18 @@
 ---
 
 ## 🛠️ Featured Projects
+
+
+### 🔹 [Orbit — Full-Stack Social Media Platform](https://github.com/Shreyansh-kushw/Orbit)
+**Modern social platform with semantic search · [Live Demo](https://orbit-one-flame.vercel.app/)**
+
+- Built a complete social media platform with post feeds, user profiles, media uploads, and authentication
+- Implemented **hybrid semantic search** combining keyword matching with vector similarity search using pgvector and the Google Gemini API — queries embedded into 3072-dimensional vectors matched via cosine similarity
+- Fully async Python backend (FastAPI + SQLAlchemy) paired with a Next.js 16 App Router frontend
+- End-to-end type safety with Pydantic on the backend and Zod on the frontend
+- **Tech:** FastAPI · Next.js 16 · PostgreSQL · pgvector · Gemini API · SQLAlchemy · Tailwind CSS
+
+---
 
 ### 🔹 [Elevate AI — AI Career Development Platform](https://github.com/Shreyansh-kushw/Elevate-AI)
 **Full-stack career intelligence system · Built at Sankalp 2026 (Top 10, National)**
