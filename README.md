@@ -69,24 +69,36 @@
 
 ---
 
+### 🔹 [Scout — Autonomous AI Research Agent](https://github.com/Shreyansh-kushw/Scout)
+**Agentic research system with iterative search and gap analysis · [Live Demo](https://scout-xz2j.onrender.com/)**
+
+- Built a cyclic **LangGraph-based research agent** that decomposes complex questions into focused search queries and iteratively fills information gaps
+- Implemented multi-stage workflows for **query decomposition, retrieval, evaluation, and synthesis**, enabling grounded long-form research reports
+- Designed a hybrid LLM architecture using **Groq (Llama 3) for reasoning** and **Gemini 2.5 Flash for final synthesis**, balancing speed, cost, and quality
+- Engineered stateful agent execution with controlled iteration limits, resilient JSON parsing, and search-result quality filtering
+- **Tech:** FastAPI · LangGraph · LangChain · Gemini · Groq · Tavily · Python
+
+---
+
+### 🔹 [Context Engine — Document Analysis & Semantic Search](https://github.com/Shreyansh-kushw/Context-Engine)
+**Production-oriented Retrieval-Augmented Generation (RAG) platform**
+
+- Built a complete **RAG pipeline** supporting document ingestion, OCR, semantic chunking, vector embeddings, retrieval, and grounded question answering
+- Implemented **local embedding generation** using BAAI's BGE-base model and vector similarity search with **PostgreSQL + pgvector**, eliminating the need for external vector databases
+- Developed a fully asynchronous architecture using **FastAPI, SQLAlchemy, and async LangChain calls** for scalable document processing
+- Added support for PDFs, scanned documents, and images through **Docling and EasyOCR**, enabling robust knowledge extraction from diverse file formats
+- **Tech:** FastAPI · PostgreSQL · pgvector · SQLAlchemy · SentenceTransformers · EasyOCR · Docling · Groq
+
+---
+
 ### 🔹 [Elevate AI — AI Career Development Platform](https://github.com/Shreyansh-kushw/Elevate-AI)
-**Full-stack career intelligence system · Built at Sankalp 2026 (Top 10, National)**
+**🏅 National Top 10 — Sankalp 2026 Hackathon · Only 1st-year team among all participating colleges · [Live Demo](https://elevateai-pi.vercel.app/)**
 
 - Built a scalable **FastAPI backend** with secure JWT-based authentication and modular API design
 - Developed backend systems for **resume analysis, skill extraction, and user profiling**
 - Implemented core logic for **AI interview simulation**, integrating video-based analysis and question generation
 - End-to-end platform covering career insights, personalized roadmaps, and job readiness evaluation
 - **Tech:** FastAPI · Python · SQLite · LangChain · LLM APIs
-
----
-
-### 🔹 [ContextIQ — Document Analysis & Semantic Search](https://github.com/Shreyansh-kushw/ContextIQ)
-**Backend-first document intelligence platform · Dev or Die 2025, 2nd Place**
-
-- Built an AI-powered system that automates **ingestion, summarization, and semantic search** over uploaded documents
-- Implemented document comparison and structured analysis logic
-- Users can upload any file, get a summary, and ask questions about its content
-- **Tech:** Python · SQLite · LLM APIs
 
 ---
 
