@@ -1,11 +1,15 @@
-# 👋 Hi, I'm Shreyansh
+<h1 align="center">👋 Hi, I'm Shreyansh</h1>
 
-🎓 Second-year Electrical Engineering student at MNNIT Allahabad  
-💻 Backend developer focused on AI systems, automation, and FastAPI-based applications   
-🧠 I build real, usable software — from intelligent document systems to secure desktop apps   
-🎯 Focused on solving real-world problems through clean, scalable systems   
+<p align="center">
+🎓 Second-year Electrical Engineering student at MNNIT Allahabad<br>
+💻 Backend developer focused on AI systems, automation, and FastAPI-based applications<br>
+🧠 I build real, usable software — from intelligent document systems to secure desktop apps<br>
+🎯 Focused on solving real-world problems through clean, scalable systems
+</p>
 
-💪 Fitness enthusiast • 🎮 Casual gamer • 🎧 Codes best with music on  
+<p align="center">
+💪 Fitness enthusiast • 🎮 Casual gamer • 🎧 Codes best with music on
+</p>
 
 ---
 
@@ -22,47 +26,61 @@
 
 ## 🧰 Tech Stack
 
+<p align="left">
+
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### AI / ML
-![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Minimax](https://img.shields.io/badge/minimax-B4393C?style=for-the-badge&logo=minimax&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
+![Minimax](https://img.shields.io/badge/Minimax-B4393C?style=for-the-badge&logo=minimax&logoColor=white)
 
-### Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+### Backend & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Databases
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shreyansh-kushw&theme=dracula)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shreyansh-kushw&theme=dracula)
-![Shreyansh's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreyansh-kushw&theme=dracula)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shreyansh-kushw&theme=dracula" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shreyansh-kushw&theme=dracula" alt="Stats" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreyansh-kushw&theme=dracula" alt="Shreyansh's GitHub stats" />
+</div>
 
 ---
 
 ## 🛠️ Featured Projects
 
-
 ### 🔹 [Orbit — Full-Stack Social Media Platform](https://github.com/Shreyansh-kushw/Orbit)
 **Modern social platform with semantic search · [Live Demo](https://orbit-one-flame.vercel.app/)**
 
 - Built a complete social media platform with post feeds, user profiles, media uploads, and authentication
-- Implemented **hybrid semantic search** combining keyword matching with vector similarity search using pgvector and the Google Gemini API — queries embedded into 3072-dimensional vectors matched via cosine similarity
+- Implemented **hybrid semantic search** combining keyword matching with vector similarity search using pgvector and the Google Gemini API — queries embedded into 1536-dimensional vectors matched via cosine similarity
 - Fully async Python backend (FastAPI + SQLAlchemy) paired with a Next.js 16 App Router frontend
 - End-to-end type safety with Pydantic on the backend and Zod on the frontend
 - **Tech:** FastAPI · Next.js 16 · PostgreSQL · pgvector · Gemini API · SQLAlchemy · Tailwind CSS
@@ -81,7 +99,7 @@
 ---
 
 ### 🔹 [Context Engine — Document Analysis & Semantic Search](https://github.com/Shreyansh-kushw/Context-Engine)
-**Production-oriented Retrieval-Augmented Generation (RAG) platform**
+**Production-oriented Retrieval-Augmented Generation (RAG) platform · [Live Demo](https://context-engine-alpha.vercel.app/)**
 
 - Built a complete **RAG pipeline** supporting document ingestion, OCR, semantic chunking, vector embeddings, retrieval, and grounded question answering
 - Implemented **local embedding generation** using BAAI's BGE-base model and vector similarity search with **PostgreSQL + pgvector**, eliminating the need for external vector databases
@@ -102,14 +120,16 @@
 
 ---
 
-### 🔹 [KeyVeil — Desktop Password Manager](https://github.com/Shreyansh-kushw/KeyVeil)
-**Offline-first, security-focused desktop application**
+### 🔹 [PyRun — Python Bytecode Virtual Machine](https://github.com/Shreyansh-kushw/PyRun)
+**Pure-Python stack-based VM simulating CPython's runtime engine · Zero dependencies · 6/6 tests passing**
 
-- **PIN-based authentication** with AES-encrypted local vaults
-- Auto-lock, session handling, and login attempt limits
-- Backup & restore, CSV import, and password generation
-- **PyQt6 + WebView hybrid UI** with event-driven backend logic
-- **Tech:** Python · PyQt6 · WebView · Cryptography
+- Built a **stack-based bytecode interpreter** that executes compiled `types.CodeType` objects, replicating CPython's evaluation stack, call frames, and instruction dispatch
+- Implemented **dynamic opcode dispatch** across 40+ Python 3.5 bytecodes — arithmetic, bitwise, in-place operators, comparisons, and unary ops
+- Engineered **structured control flow**: conditional jumps, loop blocks (`SETUP_LOOP`, `FOR_ITER`), and block-stack unwinding for clean `break`/`continue`/exception handling
+- Designed **full call frame lifecycle** with isolated local scopes, global namespace sharing, and recursive user-defined function support via `inspect.getcallargs`
+- Added native support for **Python data structures** (lists, tuples, sets, dicts) with correct `BUILD_MAP` key-value pair semantics
+- **Dockerized** the entire project for one-command, reproducible execution against a pinned Python 3.5 environment
+- **Tech:** Python · `dis` · `inspect` · `types` · Docker · Docker Compose
 
 > More projects coming as I continue building and refining my skills 🚀
 
@@ -117,6 +137,14 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shreyansh-kushwaha-93994b381)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shreyansh.kushw/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyansh.kushw@gmail.com)
+<p align="center">
+<a href="https://in.linkedin.com/in/shreyansh-kushwaha-93994b381">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/shreyansh.kushw/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:shreyansh.kushw@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
